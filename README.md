@@ -1,6 +1,4 @@
-### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-
-## Date:  7.11.23 
+### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT 
 
 ## Aim: 
 
@@ -150,8 +148,8 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 ##  Program :
 ```
-DEVELOPED BY : M.PAVITHRA
-REG NO : 212222100032
+DEVELOPED BY : P Ramsai
+REG NO : 212222100041
 ```
 ```
 #include "main.h"
